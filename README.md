@@ -9,3 +9,6 @@ This project involves sentiment analysis of movie reviews from the IMDb dataset.
 - **Accuracy**:
 - Achieved an accuracy of 88.4% on the Logistic Regression Model.
 - Achieved an accuracy of 85.7% on the Multinomial Naive Bayes Model.
+
+## Dataset
+Due to file size constraints, the dataset can be downloaded from https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews.
