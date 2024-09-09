@@ -3,7 +3,7 @@ This project involves sentiment analysis of movie reviews from the IMDb dataset.
 
 ### Features
 - **Dataset**: IMDb Dataset with over 50,000 movie reviews.
-- **Tools**: Python, TensorFlow, scikit-learn, Pandas, and Numpy.
+- **Tools**: Python, scikit-learn, Pandas, and Numpy.
 - **Model**: Logistic Regression and Multinomial Naive Bayes.
 - **Preprocessing Steps**: Tokenization, stopword removal, and TF-IDF vectorization.
 - **Accuracy**:
